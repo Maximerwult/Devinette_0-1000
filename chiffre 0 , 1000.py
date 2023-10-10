@@ -26,7 +26,7 @@ def play_game():
             break
     
     return attempts
-
+# lorsqu'on gagne
 def main():
     while True:
         attempts = play_game()
