@@ -2,7 +2,7 @@
 # TP2
 
 
-#on importe le randomiseur pour avoir un choix aléatoire de chiffre
+#on importe la variable d'aléatoire pour un chiffre aléatoire a deviner
 import random
 
 
